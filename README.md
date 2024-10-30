@@ -4,7 +4,7 @@ A twist on classic Tic-Tac-Toe, this game adds a new level of strategy with vari
 
 ## Game Overview
 - Each player starts with **3 small**, **3 medium**, and **2 large pieces**.
-- Players may **place larger pieces over their opponent's smaller pieces** to gain control.
+- Players may **place larger pieces over their opponent's smaller pieces** to gain control. (opponent's pieces are not given back)
 - The objective is to either:
   - **Get 3 in a row** (horizontally, vertically, or diagonally), or
   - **Control more pieces on the board** when no valid moves are left.
